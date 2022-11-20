@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "spiderman@gmail.com",
+      "password": "spiderman123",
+      "name": "spiderman",
+      "todos": [
+        {
+          "id": 1,
+          "todoName": "Lagi Makan",
+          "isDone": false
+        }
+      ]
+    }
+  ]
+}
