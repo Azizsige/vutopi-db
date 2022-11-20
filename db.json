@@ -5,13 +5,15 @@
       "email": "spiderman@gmail.com",
       "password": "spiderman123",
       "name": "spiderman",
-      "todos": [
-        {
-          "id": 1,
-          "todoName": "Lagi Makan",
-          "isDone": false
-        }
-      ]
+      "todoId": 1
+    }
+  ],
+
+  "todos": [
+    {
+      "id": 1,
+      "nameTodo": "Makan",
+      "isDone": false
     }
   ]
 }
