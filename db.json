@@ -4,8 +4,7 @@
       "id": 1,
       "email": "spiderman@gmail.com",
       "password": "spiderman123",
-      "name": "spiderman",
-      "todosId": 1
+      "name": "spiderman"
     }
   ],
 
@@ -13,7 +12,8 @@
     {
       "id": 1,
       "nameTodo": "Makan",
-      "isDone": false
+      "isDone": false,
+      "userId": 1
     }
   ]
 }
