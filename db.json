@@ -11,24 +11,28 @@
   "todos": [
     {
       "id": 1,
-      "nameTodo": [
-        {
-          "id": 1,
-          "name": "Makan",
-          "isDone": false
-        },
-        {
-          "id": 2,
-          "name": "Mandi",
-          "isDone": false
-        },
-        {
-          "id": 3,
-          "name": "Minum",
-          "isDone": false
-        }
-      ],
       "userId": 1
+    }
+  ],
+
+  "nameTodo": [
+    {
+      "id": 1,
+      "name": "Makan",
+      "isDone": false,
+      "todoId": 1
+    },
+    {
+      "id": 1,
+      "name": "Makan",
+      "isDone": false,
+      "todoId": 1
+    },
+    {
+      "id": 1,
+      "name": "Makan",
+      "isDone": false,
+      "todoId": 1
     }
   ]
 }
