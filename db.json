@@ -5,16 +5,24 @@
       "email": "spiderman@gmail.com",
       "password": "spiderman123",
       "name": "spiderman"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "admin",
+      "id": 2
     }
   ],
-
   "todos": [
     {
       "id": 1,
       "userId": 1
+    },
+    {
+      "userId": 2,
+      "id": 2
     }
   ],
-
   "nameTodo": [
     {
       "id": 1,
@@ -29,10 +37,39 @@
       "todoId": 1
     },
     {
-      "id": 1,
-      "name": "Makan",
+      "name": "aku",
+      "id": 2
+    },
+    {
+      "name": "kami",
+      "id": 7
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "kamu update lagi",
+      "todoId": 2,
       "isDone": false,
-      "todoId": 1
+      "id": 11
+    },
+    {
+      "name": "kami",
+      "isDone": false,
+      "todoId": 2,
+      "id": 17
+    },
+    {
+      "name": "sendirian di update",
+      "todoId": 2,
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "name": "aku lagi diupdate",
+      "todoId": 2,
+      "isDone": false,
+      "id": 20
     }
   ]
 }
